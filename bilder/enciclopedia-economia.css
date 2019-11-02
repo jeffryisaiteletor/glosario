@@ -1,0 +1,187 @@
+.abc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	word-spacing: 10px;
+	padding-top: 0px;
+	margin: 0px;
+	}
+.seitenabstand {
+	padding-left:20; padding-right:20;
+	}
+.haupttext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 24px;
+}
+.haupttext a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000BB;
+	text-decoration: none;
+}
+.haupttext a:visited {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000BB;
+	text-decoration: none;
+}
+.haupttext a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000BB;
+	text-decoration: underline;
+}
+.abc a:link {
+	color: #0000FF;
+}
+.abc a:visited {
+	color: #0000FF;
+}
+.abc a:hover {
+	color: #007700;
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	padding-left: 70px;
+}
+.copyright a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.copyright a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.fusszeile {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	padding-left: 70px;
+}
+.fusszeile a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.fusszeile a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.fusszeile a:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #007700;
+}
+.copyright a:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #007700;
+}
+.andere {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.vorher-nachher {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.andere a:link {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.andere a:visited {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.horlin {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+}
+.orange {
+	color: #FF9900
+	}.startli {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-top: 10px;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 36px;
+}
+.startli a:link {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.startli a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.kasten {
+	border: 1px solid #999999;
+	height: 18px;
+}
+.schaltfl {
+	height: 18px;
+}
+.frame1 {
+	border: 1px solid #666666;
+}
+h6 {
+	font-size: x-small;
+	font-weight: bold;
+}
+.werbung1 {
+	height: 270px;
+	width: 272px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.startblock {
+	height: 870px; 
+	width: 256px; 
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.abstand4 {
+	padding-top: 20px;
+}
+.frame2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	border: 1px solid #666666;
+	padding: 12px;
+	background-color: #E0E0E0;
+}
